@@ -18,7 +18,13 @@ The more available the data is, the less effective it will be when compared in a
 2. Multicollinearity: 
 Some variables used in a prediction are high correlated and can occasionally represent the same information. This problem in collinearity can increase the weight given to identical variables more than the model intended. This phenomenon at scale can output unreliable predictions that care too heavily about a small number of factors. 
 
-
 ## References
-The use of machine learning in sport outcome prediction: A review
+1. The use of machine learning in sport outcome prediction: A review
 https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1380
+
+## Tutorials
+1. Web Scraping in Python: https://www.youtube.com/watch?v=Nt7WJa2iu0s
+## Data Sources
+1. Pro Football Reference: https://www.pro-football-reference.com
+2. NFL: https://www.nfl.com/stats/player-stats/
+3. ESPN: https://www.espn.com/nfl/stats
